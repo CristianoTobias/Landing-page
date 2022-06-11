@@ -24,6 +24,9 @@ main{
 }
 
 /* firt section */
+.icon{
+    display: flex;
+}
 .main-header {
     margin: 0 auto;
     width: 1000px;
@@ -138,6 +141,7 @@ button {
 .random-information-figure figure img {
     border: 5px solid #3882f6;
     width: 180px;
+    height: 250px;
     border-radius: 10px;
 
 }
